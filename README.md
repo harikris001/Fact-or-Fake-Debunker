@@ -53,13 +53,13 @@ Then, follow the easy steps to install and get started using the sample app.
 This is done with the `git clone` command followed by the URL of the repository:
 
 ```bash
-git clone https://github.com/harikris001/fact-or-fake-debunker
+git clone https://github.com/harikris001/Fact-or-Fake-Debunker
 ```
 
 Next,  navigate to the project folder:
 
 ```bash
-cd fact-or-fake-debunker
+cd Fact-or-Fake-Debunker
 ```
 
 #### Step 2: Set environment variables
