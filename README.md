@@ -6,9 +6,13 @@ Get real-time debunking of fake or factual information using the Fake or Fact De
 
 See the tool in action:
 
+https://github.com/harikris001/Fact-or-Fake-Debunker/assets/85405666/bba0b608-e681-45bd-8918-98c5e40ae099
+
+
+
 The Fact or Fake Debunker empowers users to quickly verify the authenticity of information by leveraging real-time document streaming and the RAG model for accurate analysis.
 
-The LLM App Pathway, An awesome package to handle realtime data streaming.
+The LLM App Pathway, An awesome package to handle real-time data streaming.
 
 ## How to run the tool
 
@@ -71,7 +75,7 @@ EMBEDDING_DIMENSION=1536
 MODEL_LOCATOR=gpt-3.5-turbo
 MAX_TOKENS=200
 TEMPERATURE=0.0
-DROPBOX_LOCAL_FOLDER_PATH="../../../mnt/c/Users/bumur/Dropbox/documents"
+DROPBOX_LOCAL_FOLDER_PATH="../../../mnt/c/Users/<username>/Dropbox/documents"
 ```
 
 Replace DROPBOX_LOCAL_FOLDER_PATH with your local Dropbox folder path and optionally, you customize other values.
@@ -104,3 +108,8 @@ python main.py
 
 You can run the UI separately by running Streamlit app
 `streamlit run ui.py` command. It connects to the Pathway's backend API automatically and you will see the UI frontend is running on your browser.
+
+
+<hr>
+
+Considering Giving me a star if u like my work. :)
