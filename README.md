@@ -12,7 +12,7 @@ https://github.com/harikris001/Fact-or-Fake-Debunker/assets/85405666/bba0b608-e6
 
 The Fact or Fake Debunker empowers users to quickly verify the authenticity of information by leveraging real-time document streaming and the RAG model for accurate analysis.
 
-The LLM App Pathway, An awesome package to handle real-time data streaming.
+The LLM App uses [Pathway](https://pathway.com/), An awesome package to handle real-time data streaming.
 
 ## How to run the tool
 
